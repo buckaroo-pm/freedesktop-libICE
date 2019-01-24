@@ -33,5 +33,4 @@ before_install:
 
 script:
   - ./buckaroo-client install
-  - buck build -c ui.superconsole=DISABLED //:math
-  - buck run -c ui.superconsole=DISABLED //example:big-seventh
+  - buck build -c ui.superconsole=DISABLED //:ice
