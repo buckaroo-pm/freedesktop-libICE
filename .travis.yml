@@ -17,7 +17,6 @@ addons:
 
 os:
   - linux
-  - osx
 
 env:
   - BUCKAROO_VERSION=buckaroo-redux-alpha-13
